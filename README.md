@@ -37,4 +37,15 @@ The libraries used are *pandas*, *sklearn*, *matplotlib* and *plotly*.
 ## Evaluation
 There I have used a weighted accuracy to evaluate the performance of the model. Class 1 (employee left the company) has a weight of 5 and Class 0 (employee remains in the company) has weight of 1. The Formula for accuracy is <br>
  
-<img src="https://github.com/tesla-24/EmployeeLeavingCompanyPrediction/blob/main/support/CodeCogsEqn.png" width="128"/>
+<img src="https://github.com/tesla-24/EmployeeLeavingCompanyPrediction/blob/main/support/formula.png" width="600"/>
+
+Here, weight(i) is the weight of the class. For 0 it is 1, and for 1 it is 0.
+prediction(i) is the predicted value and expected(i) is the ground truth.
+
+## Results
+
+The weighted accuracy obtained on the validation dataset is *92.49 %*. The weight of various features extracted in the process varied greatly. The most important features are captured in the graph below.
+
+<img src="https://github.com/tesla-24/EmployeeLeavingCompanyPrediction/blob/main/support/important_features.png" width="600"/>
+
+

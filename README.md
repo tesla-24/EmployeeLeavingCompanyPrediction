@@ -48,4 +48,7 @@ The weighted accuracy obtained on the validation dataset is *92.49 %*. The weigh
 
 <img src="https://github.com/tesla-24/EmployeeLeavingCompanyPrediction/blob/main/support/important_features.png" width="600"/>
 
+# Blog 
 
+
+[Blog on medium](https://medium.com/@yogielectron/predict-whether-an-employee-remains-in-the-company-6a7cc7ff147f)

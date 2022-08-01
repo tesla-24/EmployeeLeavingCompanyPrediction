@@ -39,7 +39,7 @@ There I have used a weighted accuracy to evaluate the performance of the model. 
  
 <img src="https://github.com/tesla-24/EmployeeLeavingCompanyPrediction/blob/main/support/formula.png" width="600"/>
 
-Here, weight(i) is the weight of the class. For 0 it is 1, and for 1 it is 0.
+Here, weight(i) is the weight of the class. For 0 it is 1, and for 1 it is 5.
 prediction(i) is the predicted value and expected(i) is the ground truth.
 
 ## Results

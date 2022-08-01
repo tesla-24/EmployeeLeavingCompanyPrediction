@@ -33,3 +33,8 @@
 
 ## Libraries
 The libraries used are *pandas*, *sklearn*, *matplotlib* and *plotly*. 
+
+## Evaluation
+There I have used a weighted accuracy to evaluate the performance of the model. Class 1 (employee left the company) has a weight of 5 and Class 0 (employee remains in the company) has weight of 1. The Formula for accuracy is <br>
+ 
+<img src="https://github.com/tesla-24/EmployeeLeavingCompanyPrediction/blob/main/support/CodeCogsEqn.png" width="128"/>

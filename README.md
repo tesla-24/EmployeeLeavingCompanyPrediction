@@ -44,7 +44,7 @@ prediction(i) is the predicted value and expected(i) is the ground truth.
 
 ## Results
 
-The weighted accuracy obtained on the validation dataset is *92.49 %*. The weight of various features extracted in the process varied greatly. The most important features are captured in the graph below.
+The weighted accuracy obtained on the validation dataset is over *90 %*. The weight of various features extracted in the process varied greatly. The most important features are captured in the graph below.
 
 <img src="https://github.com/tesla-24/EmployeeLeavingCompanyPrediction/blob/main/support/important_features.png" width="600"/>
 
